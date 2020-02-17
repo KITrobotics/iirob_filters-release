@@ -2,7 +2,15 @@
 Changelog for package iirob_filters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.8.1 (2018-12-11)
+0.8.2 (2020-02-17)
+------------------
+* Added chages to sequential Kalman Filter (`#30 <https://github.com/KITrobotics/iirob_filters/issues/30>`_)
+* added handling if At is empty (`#29 <https://github.com/KITrobotics/iirob_filters/issues/29>`_)
+* version 0.8.1
+* generated changelog
+* Contributors: Denis Štogl, GDwag, Gilbert Groten, Daniel Azanov
+
+0.8.1 (2018-12-13)
 ------------------
 * Revert use of doTransform for Wrenches (#24)
 * Update README.md (#25)
