@@ -1,0 +1,12 @@
+Source: ros-melodic-iirob-filters
+Section: misc
+Priority: optional
+Maintainer: Denis Štogl <denis.stogl@kit.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-cmake-modules, ros-melodic-dynamic-reconfigure, ros-melodic-eigen-conversions, ros-melodic-filters, ros-melodic-geometry-msgs, ros-melodic-pluginlib, ros-melodic-roscpp, ros-melodic-rosparam-handler, ros-melodic-rostest, ros-melodic-tf2-ros
+Homepage: http://wiki.ros.org/iirob_filters
+Standards-Version: 3.9.2
+
+Package: ros-melodic-iirob-filters
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-cmake-modules, ros-melodic-dynamic-reconfigure, ros-melodic-eigen-conversions, ros-melodic-filters, ros-melodic-geometry-msgs, ros-melodic-pluginlib, ros-melodic-roscpp, ros-melodic-rosparam-handler, ros-melodic-rostest, ros-melodic-tf2-ros
+Description: The iirob_filters package implements following filters: 1) Low-Pass 2) Moving Mean 3) Gravity Compensation (used for force-torque sensors) 4) Threshold Filter 5) Kalman Filter
