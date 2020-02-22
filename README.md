@@ -1,3 +1,26 @@
+## iirob_filters (kinetic) - 0.9.0-1
+
+The packages in the `iirob_filters` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic iirob_filters` on `Sat, 22 Feb 2020 08:51:32 -0000`
+
+The `iirob_filters` package was released.
+
+Version of package(s) in repository `iirob_filters`:
+
+- upstream repository: https://github.com/KITrobotics/iirob_filters.git
+- release repository: https://github.com/KITrobotics/iirob_filters-release.git
+- rosdistro version: `0.8.4-1`
+- old version: `0.8.4-1`
+- new version: `0.9.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## iirob_filters (kinetic) - 0.8.4-1
 
 The packages in the `iirob_filters` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic iirob_filters` on `Tue, 18 Feb 2020 10:42:05 -0000`
